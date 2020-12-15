@@ -2,9 +2,9 @@
 
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
+To View the live site click [here &rarr;](https://1102jhc.github.io/)
 
-![Portfolio Gif](/images/portfolio.gif)
+
 
 ## Features
 
