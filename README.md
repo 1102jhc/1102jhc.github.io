@@ -1,5 +1,7 @@
 # Hee's 포트폴리오
 
+![Portfolio Gif](/images/myPortfolio.gif)
+
 ### About Section
 
 소개 부분입니다.
